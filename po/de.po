@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: tuxbox-enigma 0.0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-29 19:28+0000\n"
-"PO-Revision-Date: 2021-10-18 22:49+0000\n"
-"Last-Translator: VfBFan <drop0815@posteo.de>\n"
+"PO-Revision-Date: 2021-10-19 20:49+0000\n"
+"Last-Translator: jbleyel <jbleyel@gmx.net>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/openatv/"
 "enigma2-7-0-po/de/>\n"
 "Language: de\n"
@@ -11961,7 +11961,6 @@ msgid "Please choose an extension..."
 msgstr "Bitte eine Erweiterung auswählen..."
 
 #
-#, fuzzy
 msgid "Please choose he package..."
 msgstr "Bitte das Paket auswählen..."
 
